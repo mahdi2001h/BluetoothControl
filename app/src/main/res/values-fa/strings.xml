@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کنترل بلوتوث</string>
+    <string name="color">رنگ</string>
+    <string name="distance">پیام</string>
+    <string name="reg_devices">دستگاههای شناخته شده:</string>
+    <string name="select_device">یک دستگاه را برای ارسال دستورات انتخاب کنید</string>
+    <string name="disconnected">ارتباط قطع شد</string>
+    <string name="not_connect">متصل نیست</string>
+    <string name="web">سایت :</string>
+    <string name="dev_contact">ارتباط با برنامه نویس :</string>
+    <string name="add_device">اگر دستگاه شما در این لیست نیست از طریق تنظیمات بلوتوث آنرا اضافه کنید</string>
+    <string name="about">این یک برنامه برای پروژه شما است</string>
+    <string name="connected">متصل شدید</string>
+</resources>
